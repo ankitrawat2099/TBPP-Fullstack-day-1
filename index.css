@@ -98,3 +98,300 @@ nav{
 .box4 p{
     text-align: center;
 }
+
+.box4 h3{
+    letter-spacing: 16px;
+    color: grey;
+    margin-left: 130px;
+}
+
+#box4p{
+    color: grey;
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.percent{
+    height: 30px;
+    width: 80%;
+    margin-left: 130px;
+    margin-top: 7px;
+    background-color: rgb(203, 202, 200);
+}
+.percentcolor{
+    width: 90%;
+    background-color: grey;
+    height: 30px;
+}
+
+.percentcolor p{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    padding-top: 2px;
+}
+
+.percentcolor1{
+    width: 85%;
+    background-color: grey;
+    height: 30px;
+}
+
+.percentcolor1 p{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    padding-top: 2px;
+}
+
+.percentcolor2{
+    width: 75%;
+    background-color: grey;
+    height: 30px;
+}
+
+.percentcolor2 p{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+    padding-top: 2px;
+}
+
+.box5{
+    margin-top: 50px;
+    height: 130px;
+    width: 100%;
+    background-color: grey;
+   
+}
+
+.box5 ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding-top: 30px;
+}
+
+.box5 ul li{
+    font-size: 25px;
+    color: white;
+}
+.box6{
+    height: 400px;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1533557188897-ef2bc7257ba3?q=80&w=2684&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 70px;
+
+}
+
+.box7 h2{
+    text-align: center;
+    color: grey;
+}
+
+.box7 p{
+    margin-top: 30px;
+    text-align: center;
+    color: grey;
+    line-height: 28px;
+    word-spacing: 4px;
+}
+.box8{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.box8cards{
+    height: 160px;
+    width: 200px;
+    background-color: black;
+}
+#box8card1{
+    margin-right: 20px;
+    background-image: url("https://media.istockphoto.com/id/1023201682/photo/nimbus-moving.jpg?s=1024x1024&w=is&k=20&c=nzP-0yb6iqneQTb6eBVA_TR5fSHvE1wYyTYamv5QGiA=");
+    background-size: cover;
+}
+#box8card2{
+    margin-right: 20px;
+    background-image: url("https://images.unsplash.com/photo-1442550528053-c431ecb55509?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+#box8card3{
+    margin-right: 20px;
+    background-image: url("https://plus.unsplash.com/premium_photo-1661963724246-b02cc380bf4d?q=80&w=2625&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+#box8card4{
+    background-size: cover;
+    background-image: url("https://plus.unsplash.com/premium_photo-1728221048716-ad665177576f?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+
+.box9{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+    
+}
+.box9cards{
+    height: 160px;
+    width: 200px;
+    background-color: black;
+}
+
+#box9card1{
+    margin-right: 20px;
+    background-image: url("https://plus.unsplash.com/premium_photo-1705095787291-70d87945a2a9?q=80&w=2675&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+#box9card2{
+    margin-right: 20px;
+    background-image: url("https://images.unsplash.com/photo-1614383686443-6f7c99dcb690?q=80&w=2394&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+#box9card3{
+    margin-right: 20px;
+    background-image: url("https://media.istockphoto.com/id/939284116/photo/winter-landscape.jpg?s=1024x1024&w=is&k=20&c=GCZx83dQPoUeS66nXjD_6AJX3THziNL7K1Uo6SKrzCE=");
+    background-size: cover;
+}
+#box9card4{
+    background-size: cover;
+    background-image: url("https://images.unsplash.com/photo-1518156677180-95a2893f3e9f?q=80&w=2574&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+}
+
+.box10{
+    height: 40px;
+    width: 170px;
+    background-color: rgb(203, 203, 203);
+    margin-top: 100px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.box10 h2{
+    text-align: center;
+}
+
+.box11{
+    margin-top: 100px;
+    height: 400px;
+    width: 100%;
+    background-image: url("https://plus.unsplash.com/premium_photo-1723514465798-4ebd14fc9762?q=80&w=2665&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    margin-bottom: 100px;
+}
+.box11 h1{
+    text-align: center;
+    color: white;
+    letter-spacing: 20px;
+    padding-top: 200px;
+}
+
+.box12 h1{
+    text-align: center;
+    color: grey;
+}
+.box12 p{
+    margin-top: 20px;
+    text-align: center;
+    color: grey;
+    margin-bottom: 70px;
+
+}
+
+.box13{
+    display: flex;
+    justify-content: center;
+
+}
+
+.box13card1{
+    height: 190px;
+    width: 320px;
+    background-image: url("https://www.w3schools.com/w3images/map.jpg");
+    background-size: cover;
+}
+
+
+.box13card2{
+    margin-top: 20px;
+    margin-left: 60px;
+
+}
+
+.box13card2 h2{
+    margin-bottom: 15px;
+    color: grey;
+    margin-left: 20px;
+}
+#icongap{
+    padding-right: 20px;
+}
+
+.box13card2 h4{
+    color: grey;
+    margin-left: 20px;
+    margin-top: 30px;
+
+}
+
+.inputbox1{
+    margin-top: 30px;
+    height: 40px;
+    width: 280px;
+    margin-right: 20px;
+}
+
+.inputbox2{
+    margin-top: 30px;
+    height: 40px;
+    width: 280px;
+}
+.inputbox3{
+    margin-top: 20px;
+    height: 40px;
+    width: 590px;
+}
+
+.button{
+    border: none;
+    background-color:black;
+    color: white;
+    margin-top: 14px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.btn{
+    height: 45px;
+    width: 170px;
+    background-color: black;
+    color: white;
+    margin-left: 425px;
+    margin-top: 20px;
+}
+
+footer{
+    height: 400px;
+    width: 100%;
+    background-color: grey;
+    margin-top: 150px;
+    
+}
+footer:hover{
+    background-color: black;
+}
+
+.footerbox ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    font-size: 30px;
+    color: white;
+    padding-top: 200px;
+    
+}
+
